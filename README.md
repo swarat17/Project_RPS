@@ -121,5 +121,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspired by the classic game of Stone Paper Scissors and the potential of real-time AI applications.
 
 --- 
-
-Let me know if additional changes are needed!
